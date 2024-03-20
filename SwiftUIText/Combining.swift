@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  Combining.swift
 //  SwiftUIText
 //
 //  Created by Alex Nagy on 20.03.2024.
@@ -7,15 +7,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct Combining: View {
     var body: some View {
-        VStack {
-            Text("Hello, world!")
+        Group {
+            Text("Lorem").bold() + Text(" ipsum").underline()
         }
-        .padding()
     }
 }
 
 #Preview {
-    ContentView()
+    Combining()
 }

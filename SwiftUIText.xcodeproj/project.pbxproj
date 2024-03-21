@@ -41,7 +41,6 @@
 		C959CEF12BAB90860016B1E2 /* TextSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEF02BAB90860016B1E2 /* TextSelection.swift */; };
 		C959CEF32BAB90D10016B1E2 /* Format.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEF22BAB90D10016B1E2 /* Format.swift */; };
 		C959CEF52BAB91510016B1E2 /* DateFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEF42BAB91510016B1E2 /* DateFormatting.swift */; };
-		C959CEF72BAB92740016B1E2 /* MeasurementFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEF62BAB92740016B1E2 /* MeasurementFormat.swift */; };
 		C959CEF92BAB93120016B1E2 /* NameFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEF82BAB93120016B1E2 /* NameFormat.swift */; };
 		C959CEFB2BAB98D20016B1E2 /* ListFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = C959CEFA2BAB98D20016B1E2 /* ListFormat.swift */; };
 /* End PBXBuildFile section */
@@ -83,7 +82,6 @@
 		C959CEF02BAB90860016B1E2 /* TextSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelection.swift; sourceTree = "<group>"; };
 		C959CEF22BAB90D10016B1E2 /* Format.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Format.swift; sourceTree = "<group>"; };
 		C959CEF42BAB91510016B1E2 /* DateFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatting.swift; sourceTree = "<group>"; };
-		C959CEF62BAB92740016B1E2 /* MeasurementFormat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasurementFormat.swift; sourceTree = "<group>"; };
 		C959CEF82BAB93120016B1E2 /* NameFormat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameFormat.swift; sourceTree = "<group>"; };
 		C959CEFA2BAB98D20016B1E2 /* ListFormat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListFormat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -148,7 +146,6 @@
 				C959CEEE2BAB801E0016B1E2 /* DynamicTypeSizeLimit.swift */,
 				C959CEF22BAB90D10016B1E2 /* Format.swift */,
 				C959CEF42BAB91510016B1E2 /* DateFormatting.swift */,
-				C959CEF62BAB92740016B1E2 /* MeasurementFormat.swift */,
 				C959CEF82BAB93120016B1E2 /* NameFormat.swift */,
 				C959CEFA2BAB98D20016B1E2 /* ListFormat.swift */,
 				C959CEAC2BAB70AB0016B1E2 /* Assets.xcassets */,
@@ -250,7 +247,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C959CEE32BAB7D0C0016B1E2 /* Tracking.swift in Sources */,
-				C959CEF72BAB92740016B1E2 /* MeasurementFormat.swift in Sources */,
 				C959CEE92BAB7E760016B1E2 /* FontScaledMetric.swift in Sources */,
 				C959CEC72BAB762A0016B1E2 /* MinimumScaleFactor.swift in Sources */,
 				C959CECB2BAB772C0016B1E2 /* Alignment.swift in Sources */,
